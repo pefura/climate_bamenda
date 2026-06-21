@@ -728,7 +728,7 @@
 "BG21M","RHB","Male",21,2024-12-23,"pneumonia",0,1,0,0,0,0,0,0
 "KZ52M","RHB","Male",52,2025-11-21,"Pulmonary TB",1,0,0,0,0,0,0,0
 "NS39M","RHB","Male",39,2025-03-16,"Pulmonary TB",1,0,0,0,0,0,0,0
-"JM9M","RHB","Male",9,2026-04-04,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"JM9M","RHB","Male",9,2026-04-04,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "ME68M","RHB","Male",68,2026-04-13,"pneumonia",0,1,0,0,0,0,0,0
 "JG19M","RHB","Male",19,2024-11-30,"Pulmonary TB",1,0,0,0,0,0,0,0
 "AJ79M","RHB","Male",79,2023-09-26,"pneumonia",0,1,0,0,0,0,0,0
@@ -1405,7 +1405,7 @@
 "MM3F","RHB","Female",3,2025-07-18,"pneumonia",0,1,0,0,0,0,0,0
 "AJ5M","RHB","Male",5,2025-12-06,"Acute bronchitis",0,0,0,0,0,1,0,0
 "EE1F","RHB","Male",1,2025-05-07,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
-"GK1M","RHB","Male",1,2025-07-18,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"GK1M","RHB","Male",1,2025-07-18,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "NR4F","RHB","Male",4,2025-05-22,"Acute bronchitis",0,0,0,0,0,1,0,0
 "RV3M","RHB","Male",3,2025-12-06,"pneumonia",0,1,0,0,0,0,0,0
 "AKH1M","RHB","Male",1,2025-07-25,"Bronchiolitis",0,0,0,0,0,0,1,0
@@ -1429,7 +1429,7 @@
 "MM1F","RHB","Female",1,2025-05-31,"pneumonia",0,1,0,0,0,0,0,0
 "SA3F","RHB","Female",3,2025-07-11,"pneumonia",0,1,0,0,0,0,0,0
 "LD3M","RHB","Male",3,2025-06-04,"pneumonia",0,1,0,0,0,0,0,0
-"BS5F","RHB","Female",5,2025-12-27,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"BS5F","RHB","Female",5,2025-12-27,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "AC9M","RHB","Male",9,2025-05-26,"Asthma",0,0,0,1,0,0,0,0
 "AT1M","RHB","Male",1,2025-07-14,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "AE1M","RHB","Male",1,2025-06-14,"pneumonia",0,1,0,0,0,0,0,0
@@ -1452,7 +1452,7 @@
 "TE1M","RHB","Male",1,2025-01-23,"Acute bronchitis",0,0,0,0,0,1,0,0
 "CAN6M","RHB","Male",6,2025-06-13,"Asthma",0,0,0,1,0,0,0,0
 "SK1F","RHB","Female",1,2025-01-26,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
-"MR1M","RHB","Male",1,2025-06-08,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"MR1M","RHB","Male",1,2025-06-08,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "AB5M","RHB","Male",5,2025-05-20,"pneumonia",0,1,0,0,0,0,0,0
 "FL1M","RHB","Male",1,2025-10-03,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "AE1M","RHB","Male",1,2025-01-31,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
@@ -1526,7 +1526,7 @@
 "CA1M","RHB","Male",1,2024-02-04,"pneumonia",0,1,0,0,0,0,0,0
 "BK1M","RHB","Male",1,2024-06-18,"pneumonia",0,1,0,0,0,0,0,0
 "BS1M","RHB","Male",1,2025-12-20,"Acute bronchitis",0,0,0,0,0,1,0,0
-"CG1F","RHB","Female",1,2025-09-21,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"CG1F","RHB","Female",1,2025-09-21,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "UL1M","RHB","Male",1,2025-09-13,"pneumonia",0,1,0,0,0,0,0,0
 "NL1F","RHB","Female",1,2025-04-30,"Pulmonary TB",1,0,0,0,0,0,0,0
 "MW1F","RHB","Female",1,2025-07-30,"pneumonia",0,1,0,0,0,0,0,0
@@ -2492,7 +2492,7 @@
 "AS7M","RHB","Male",7,2024-11-01,"pneumonia",0,1,0,0,0,0,0,0
 "AP4F","RHB","Female",4,2021-03-16,"pneumonia",0,1,0,0,0,0,0,0
 "MC2M","RHB","Male",2,2025-02-02,"pneumonia",0,1,0,0,0,0,0,0
-"NDN2M","RHB","Male",2,2021-01-15,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"NDN2M","RHB","Male",2,2021-01-15,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "AF1F","RHB","Female",1,2021-03-14,"Acute bronchitis",0,0,0,0,0,1,0,0
 "HA1M","RHB","Male",1,2020-01-15,"pneumonia",0,1,0,0,0,0,0,0
 "AN2F","RHB","Female",2,2024-04-24,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
@@ -3219,7 +3219,7 @@
 "MJ27M","NBH","Male",27,2020-07-01,"Acute bronchitis",0,0,0,0,0,1,0,0
 "NI36M","NBH","Male",36,2020-07-03,"pneumonia",0,1,0,0,0,0,0,0
 "Ns80f","NBH","Female",80,2025-07-23,"covid_19",0,0,1,0,0,0,0,0
-"Nf59f","NBH","Female",59,2025-07-23,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"Nf59f","NBH","Female",59,2025-07-23,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "Nr43f","NBH","Female",43,2025-07-25,"pneumonia",0,1,0,0,0,0,0,0
 "Ta36f","NBH","Female",36,2025-07-25,"covid_19",0,0,1,0,0,0,0,0
 "Vn43f","NBH","Female",43,2025-07-27,"Pulmonary TB",1,0,0,0,0,0,0,0
@@ -4682,7 +4682,7 @@
 "ASM2M","RHB","Male",2,2026-04-22,"pneumonia",0,1,0,0,0,0,0,0
 "ZR1F","RHB","Female",1,2026-04-22,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "NR4F","RHB","Female",4,2026-04-21,"pneumonia",0,1,0,0,0,0,0,0
-"AB1M","RHB","Male",1,2026-04-21,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"AB1M","RHB","Male",1,2026-04-21,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "MA1F","RHB","Female",1,2026-04-15,"pneumonia",0,1,0,0,0,0,0,0
 "LE1F","RHB","Female",1,2026-04-14,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "TGM1F","RHB","Female",1,2026-04-14,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
@@ -5037,7 +5037,7 @@
 "JJ70M","NBH","Male",70,2026-04-30,"pneumonia",0,1,0,0,0,0,0,0
 "PE1F","NBH","Female",1,2024-01-05,"pneumonia",0,1,0,0,0,0,0,0
 "JK1F","NBH","Female",1,2024-01-06,"Acute bronchitis",0,0,0,0,0,1,0,0
-"NR1M","NBH","Male",1,2024-01-06,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"NR1M","NBH","Male",1,2024-01-06,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "AA1M","NBH","Male",1,2024-01-07,"Acute bronchitis",0,0,0,0,0,1,0,0
 "BU1M","NBH","Male",1,2025-01-11,"pneumonia",0,1,0,0,0,0,0,0
 "BC6M","NBH","Male",6,2025-01-12,"Asthma",0,0,0,1,0,0,0,0
@@ -5146,7 +5146,7 @@
 "JWK1F","NBH","Female",1,2025-07-22,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "FD8F","NBH","Female",8,2025-07-24,"pneumonia",0,1,0,0,0,0,0,0
 "JM7M","NBH","Male",7,2025-08-04,"Asthma",0,0,0,1,0,0,0,0
-"KL1M","NBH","Male",1,2025-08-05,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"KL1M","NBH","Male",1,2025-08-05,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "NAJ1F","NBH","Female",1,2025-08-07,"pneumonia",0,1,0,0,0,0,0,0
 "BU1F","NBH","Female",1,2025-08-07,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "NG2F","NBH","Female",2,2025-08-09,"Bronchiolitis",0,0,0,0,0,0,1,0
@@ -5155,7 +5155,7 @@
 "NAP7M","NBH","Male",7,2025-08-13,"pneumonia",0,1,0,0,0,0,0,0
 "KC12F","NBH","Female",12,2025-08-18,"Asthma",0,0,0,1,0,0,0,0
 "NF1F","NBH","Female",1,2025-08-21,"pneumonia",0,1,0,0,0,0,0,0
-"MM5F","NBH","Female",5,2025-08-21,"Allergic rhinitis",0,0,0,0,0,0,0,1
+"MM5F","NBH","Female",5,2025-08-21,"Upper respiratory tract infection",0,0,0,0,0,0,0,0
 "TA1M","NBH","Male",1,2025-08-24,"pneumonia",0,1,0,0,0,0,0,0
 "HP1M","NBH","Male",1,2025-08-26,"pneumonia",0,1,0,0,0,0,0,0
 "MA1M","NBH","Male",1,2025-08-29,"Acute bronchitis",0,0,0,0,0,1,0,0
