@@ -225,7 +225,6 @@ TE70F,RHB,Female,70,2020-02-26,pneumonia,0,1,0,0,0,0,0,0
 MN97F,RHB,Female,97,2020-04-27,COPD,0,0,0,0,1,0,0,0
 RN90F,RHB,Female,90,2020-03-29,pneumonia,0,1,0,0,0,0,0,0
 CA25F,RHB,Female,25,2020-04-21,Pulmonary TB,1,0,0,0,0,0,0,0
-SV75F,RHB,Female,75,2020-01-02,pneumonia,0,1,0,0,0,0,0,0
 SM42F,RHB,Female,42,2020-03-10,pneumonia,0,1,0,0,0,0,0,0
 MN70F,RHB,Female,70,2020-02-13,COPD,0,0,0,0,1,0,0,0
 SB86F,RHB,Female,86,2020-02-12,pneumonia,0,1,0,0,0,0,0,0
@@ -234,17 +233,13 @@ MA52F,RHB,Female,52,2020-03-11,Pulmonary TB,1,0,0,0,0,0,0,0
 NC86F,RHB,Female,86,2020-03-11,Asthma,0,0,0,1,0,0,0,0
 CL72F,RHB,Female,72,2020-02-10,pneumonia,0,1,0,0,0,0,0,0
 NM38F,RHB,Female,38,2020-03-12,pneumonia,0,1,0,0,0,0,0,0
-NA117F,RHB,Female,117,2020-01-05,pneumonia,0,1,0,0,0,0,0,0
 SG23F,RHB,Female,23,2020-05-10,Asthma,0,0,0,1,0,0,0,0
 AFR36F,RHB,Female,36,2020-04-03,pneumonia,0,1,0,0,0,0,0,0
 AS81F,RHB,Female,81,2020-01-15,pneumonia,0,1,0,0,0,0,0,0
 FM40F,RHB,Female,40,2020-03-17,Pulmonary TB,1,0,0,0,0,0,0,0
 CW34F,RHB,Female,34,2020-01-23,pneumonia,0,1,0,0,0,0,0,0
-BM84F,RHB,Female,84,2020-01-02,pneumonia,0,1,0,0,0,0,0,0
-AA31F,RHB,Female,31,2020-01-02,Pulmonary TB,1,0,0,0,0,0,0,0
 SE42F,RHB,Female,42,2020-03-19,pneumonia,0,1,0,0,0,0,0,0
 TE40F,RHB,Female,40,2020-02-18,pneumonia,0,1,0,0,0,0,0,0
-NE70F,RHB,Female,70,2020-01-04,pneumonia,0,1,0,0,0,0,0,0
 KM45F,RHB,Female,45,2020-05-23,pneumonia,0,1,0,0,0,0,0,0
 BE39F,RHB,Female,39,2020-05-02,pneumonia,0,1,0,0,0,0,0,0
 AR78F,RHB,Female,78,2020-05-05,pneumonia,0,1,0,0,0,0,0,0
@@ -580,7 +575,6 @@ MA34M,RHB,Male,34,2022-08-31,pneumonia,0,1,0,0,0,0,0,0
 EF28M,RHB,Male,28,2020-01-17,Pulmonary TB,1,0,0,0,0,0,0,0
 FJ50M,RHB,Male,50,2021-08-25,pneumonia,0,1,0,0,0,0,0,0
 AD24M,RHB,Male,24,2020-02-11,pneumonia,0,1,0,0,0,0,0,0
-TM48M,RHB,Male,48,2020-01-03,pneumonia,0,1,0,0,0,0,0,0
 KE40M,RHB,Male,40,2021-08-04,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 CA61M,RHB,Male,61,2020-01-23,pneumonia,0,1,0,0,0,0,0,0
 AA80M,RHB,Male,80,2020-03-07,pneumonia,0,1,0,0,0,0,0,0
@@ -1128,7 +1122,6 @@ KE1F,RHB,Female,1,2021-02-02,Acute bronchitis,0,0,0,0,0,1,0,0
 ATJ6M,RHB,Male,6,2022-07-29,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 TE1M,RHB,Male,1,2020-02-21,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 SED5M,RHB,Male,5,2020-04-27,Upper respiratory tract infection,0,0,0,0,0,0,0,1
-TF4F,RHB,Female,4,2020-01-01,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 FA1F,RHB,Female,1,2021-07-09,pneumonia,0,1,0,0,0,0,0,0
 EA1F,RHB,Female,1,2022-07-19,Acute bronchitis,0,0,0,0,0,1,0,0
 SN9F,RHB,Female,9,2020-04-21,Upper respiratory tract infection,0,0,0,0,0,0,0,1
@@ -2568,9 +2561,6 @@ AI53M,NBH,Male,53,2025-07-15,Pulmonary TB,1,0,0,0,0,0,0,0
 JP43M,NBH,Male,43,2025-07-24,Pulmonary TB,1,0,0,0,0,0,0,0
 NM78M,NBH,Male,78,2025-07-30,Pulmonary TB,1,0,0,0,0,0,0,0
 NA74M,NBH,Male,74,2025-08-05,Pulmonary TB,1,0,0,0,0,0,0,0
-MF70F,NBH,Female,70,2020-01-01,pneumonia,0,1,0,0,0,0,0,0
-AD1F,NBH,Female,1,2020-01-01,Upper respiratory tract infection,0,0,0,0,0,0,0,1
-VP1M,NBH,Male,1,2020-01-04,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 BF1F,NBH,Female,1,2020-01-06,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 TS15M,NBH,Male,15,2020-01-06,pneumonia,0,1,0,0,0,0,0,0
 MFN67F,NBH,Female,67,2020-01-07,Upper respiratory tract infection,0,0,0,0,0,0,0,1
@@ -3155,10 +3145,6 @@ Tr47f,NBH,Female,47,2025-07-22,pneumonia,0,1,0,0,0,0,0,0
 Pi70f,NBH,Female,70,2025-07-22,pneumonia,0,1,0,0,0,0,0,0
 Mb76f,NBH,Female,76,2025-07-22,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 Wm80f,NBH,Female,80,2025-07-22,COPD,0,0,0,0,1,0,0,0
-NA42M,NBH,Male,42,2020-01-01,pneumonia,0,1,0,0,0,0,0,0
-NF2M,NBH,Male,2,2020-01-02,Upper respiratory tract infection,0,0,0,0,0,0,0,1
-CJ75M,NBH,Male,75,2020-01-05,pneumonia,0,1,0,0,0,0,0,0
-JT70M,NBH,Male,70,2020-01-05,pneumonia,0,1,0,0,0,0,0,0
 PC50M,NBH,Male,50,2020-01-31,pneumonia,0,1,0,0,0,0,0,0
 FC71M,NBH,Male,71,2020-01-09,COPD,0,0,0,0,1,0,0,0
 KE34M,NBH,Male,34,2020-01-12,Pulmonary TB,1,0,0,0,0,0,0,0
@@ -4684,7 +4670,6 @@ AM42M,RHB,Male,42,2026-03-26,Pulmonary TB,1,0,0,0,0,0,0,0
 PB29M,RHB,Male,29,2026-04-12,COPD,0,0,0,0,1,0,0,0
 NP70M,RHB,Male,70,2026-03-17,pneumonia,0,1,0,0,0,0,0,0
 TM65M,RHB,Male,65,2026-05-12,pneumonia,0,1,0,0,0,0,0,0
-SB72M,RHB,Male,72,2026-05-27,pneumonia,0,1,0,0,0,0,0,0
 NR2M,RHB,Male,2,2026-04-01,pneumonia,0,1,0,0,0,0,0,0
 LN2M,RHB,Male,2,2026-04-01,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 NN1M,RHB,Male,1,2026-04-29,Upper respiratory tract infection,0,0,0,0,0,0,0,1
@@ -4700,8 +4685,6 @@ AB1M,RHB,Male,1,2026-04-21,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 MA1F,RHB,Female,1,2026-04-15,pneumonia,0,1,0,0,0,0,0,0
 LE1F,RHB,Female,1,2026-04-14,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 TGM1F,RHB,Female,1,2026-04-14,Upper respiratory tract infection,0,0,0,0,0,0,0,1
-EB1M,RHB,Male,1,2026-05-26,pneumonia,0,1,0,0,0,0,0,0
-CD4M,RHB,Male,4,2026-05-27,Asthma,0,0,0,1,0,0,0,0
 AE1F,RHB,Female,1,2026-05-22,Bronchiolitis,0,0,0,0,0,0,1,0
 NML2M,RHB,Male,2,2026-05-24,Acute bronchitis,0,0,0,0,0,1,0,0
 DC1M,RHB,Male,1,2026-05-06,Acute bronchitis,0,0,0,0,0,1,0,0
@@ -4731,7 +4714,6 @@ CP1F,RHB,Female,1,2026-05-14,Acute bronchitis,0,0,0,0,0,1,0,0
 FWC2M,RHB,Male,2,2026-05-16,Bronchiolitis,0,0,0,0,0,0,1,0
 AJ1M,RHB,Male,1,2026-04-28,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 ND6M,RHB,Male,6,2026-05-12,Acute bronchitis,0,0,0,0,0,1,0,0
-TN1M,RHB,Male,1,2026-05-25,pneumonia,0,1,0,0,0,0,0,0
 SJ2F,RHB,Female,2,2026-05-22,pneumonia,0,1,0,0,0,0,0,0
 KA87F,RHB,Female,87,2026-05-11,COPD,0,0,0,0,1,0,0,0
 TJ60F,RHB,Female,60,2026-05-13,pneumonia,0,1,0,0,0,0,0,0
@@ -4778,9 +4760,6 @@ MV49F,NBH,Female,49,2026-05-16,pneumonia,0,1,0,0,0,0,0,0
 MS40F,NBH,Female,40,2026-05-19,Pulmonary TB,1,0,0,0,0,0,0,0
 FN48F,NBH,Female,48,2026-05-21,Pulmonary TB,1,0,0,0,0,0,0,0
 TC86F,NBH,Female,86,2026-05-24,pneumonia,0,1,0,0,0,0,0,0
-MM56F,NBH,Female,56,2026-05-26,pneumonia,0,1,0,0,0,0,0,0
-RMW80F,NBH,Female,80,2026-05-28,pneumonia,0,1,0,0,0,0,0,0
-MO63F,NBH,Female,63,2026-05-30,pneumonia,0,1,0,0,0,0,0,0
 SC31F,NBH,Female,31,2025-06-02,pneumonia,0,1,0,0,0,0,0,0
 CS65F,NBH,Female,65,2025-06-04,Pulmonary TB,1,0,0,0,0,0,0,0
 AM27F,NBH,Female,27,2025-06-04,pneumonia,0,1,0,0,0,0,0,0
@@ -5106,7 +5085,6 @@ FH65M,NBH,Male,65,2026-05-09,Pulmonary TB,1,0,0,0,0,0,0,0
 CA73M,NBH,Male,73,2026-05-16,pneumonia,0,1,0,0,0,0,0,0
 JSN80M,NBH,Male,80,2026-05-21,COPD,0,0,0,0,1,0,0,0
 TK31M,NBH,Male,31,2026-05-24,Asthma,0,0,0,1,0,0,0,0
-AJ43M,NBH,Male,43,2026-05-29,pneumonia,0,1,0,0,0,0,0,0
 PE1F,NBH,Female,1,2024-01-05,pneumonia,0,1,0,0,0,0,0,0
 JK1F,NBH,Female,1,2024-01-06,Acute bronchitis,0,0,0,0,0,1,0,0
 NR1M,NBH,Male,1,2024-01-06,Upper respiratory tract infection,0,0,0,0,0,0,0,1
@@ -5403,10 +5381,6 @@ J4M,NBH,Male,4,2026-05-17,pneumonia,0,1,0,0,0,0,0,0
 SJ1F,NBH,Female,1,2026-05-18,pneumonia,0,1,0,0,0,0,0,0
 VJ2M,NBH,Male,2,2026-05-21,pneumonia,0,1,0,0,0,0,0,0
 FR1M,NBH,Male,1,2026-05-23,pneumonia,0,1,0,0,0,0,0,0
-NB2F,NBH,Female,2,2026-05-27,pneumonia,0,1,0,0,0,0,0,0
-NM1F,NBH,Female,1,2026-05-29,pneumonia,0,1,0,0,0,0,0,0
-NP8M,NBH,Male,8,2026-05-30,Asthma,0,0,0,1,0,0,0,0
-AC3F,NBH,Female,3,2026-05-30,Upper respiratory tract infection,0,0,0,0,0,0,0,1
 ALJU159,RHB,MALE,24,2023-02-14,Pulmonary TB,1,0,0,0,0,0,0,0
 VAAC169,RHB,FEMALE,22,2023-03-09,Pulmonary TB,1,0,0,0,0,0,0,0
 FEND176,RHB,FEMALE,41,2023-03-15,Pulmonary TB,1,0,0,0,0,0,0,0
@@ -5925,8 +5899,6 @@ ODNG701,RHB,Female,62,2026-05-15,Pulmonary TB,1,0,0,0,0,0,0,0
 NEOL702,RHB,Female,26,2026-05-13,Pulmonary TB,1,0,0,0,0,0,0,0
 BOIR704,RHB,Female,56,2026-05-22,Pulmonary TB,1,0,0,0,0,0,0,0
 PETA705,RHB,Male,62,2026-05-22,Pulmonary TB,1,0,0,0,0,0,0,0
-EMMU706,RHB,Male,60,2026-05-26,Pulmonary TB,1,0,0,0,0,0,0,0
-NEFI708,RHB,Female,48,2026-05-25,Pulmonary TB,1,0,0,0,0,0,0,0
 MBPA651,RHB,Female,43,2026-01-27,Pulmonary TB,1,0,0,0,0,0,0,0
 RHRI650,RHB,Male,33,2026-02-15,Pulmonary TB,1,0,0,0,0,0,0,0
 JOAL651,RHB,Male,32,2026-02-06,Pulmonary TB,1,0,0,0,0,0,0,0
@@ -6188,7 +6160,5 @@ EDNC309,NBH,Male,39,2026-04-29,Pulmonary TB,1,0,0,0,0,0,0,0
 QUAK307,NBH,Female,17,2026-05-11,Pulmonary TB,1,0,0,0,0,0,0,0
 ELMB291,NBH,Male,38,2026-02-17,Pulmonary TB,1,0,0,0,0,0,0,0
 ELNY308,NBH,Female,39,2026-05-12,Pulmonary TB,1,0,0,0,0,0,0,0
-LEAS311,NBH,Male,21,2026-05-29,Pulmonary TB,1,0,0,0,0,0,0,0
-TAND312,NBH,Male,22,2026-05-30,Pulmonary TB,1,0,0,0,0,0,0,0
 EUWI310,NBH,Female,51,2026-05-12,Pulmonary TB,1,0,0,0,0,0,0,0
 CHFR306,NBH,Male,31,2026-04-25,Pulmonary TB,1,0,0,0,0,0,0,0
